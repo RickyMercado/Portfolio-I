@@ -220,7 +220,6 @@ nav a, nav a:visited {
 /* below I added the psuedoclass hover.
 Its used when we hover over the nav with our cursor
 it will change to this color
-* it doesnt seem to be working???
 */
 nav a.selected, nav a:hover {
   color: #32673f;
